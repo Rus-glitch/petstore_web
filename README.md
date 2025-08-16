@@ -18,4 +18,4 @@
 - Создан бэклог, спринт и доска задач
 
 ## 3. Артефакты
-- [Бэклог и спринт](docs/backlog/backlog.png)
+- [Бэклог и спринт](docs/backlog/backlog_sprint.png)
