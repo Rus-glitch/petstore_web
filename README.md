@@ -8,7 +8,7 @@
 - оформление баг-репортов в **Jira** в соответствии с общепринятыми практиками; 
 - демонстрацию ведения проекта в таск-трекере; 
 - моделирование полного цикла работы с задачами (**Backlog → Sprint → To Do → In Progress → Done**);  
-- подготовка отчётных артефактов (скриншоты доски, багов, backlog, sprint и sprint report).  
+- подготовка отчётных артефактов (скриншоты доски, багов, backlog, sprint).  
 
 
 ## 2. Рабочий процесс
@@ -18,5 +18,6 @@
 - Создан бэклог, спринт и доска задач
 
 ## 3. Артефакты
-- [Backlog & Sprint](docs/backlog/backlog_sprint.png)
-- [Sprint Board](docs/sprint_board/sprint_board.png)
+- [Backlog & Sprint](docs/backlog_sprint.png)
+- [Sprint Board](docs/sprint_board.png)
+- [All work items](docs/all_work_items.png)
