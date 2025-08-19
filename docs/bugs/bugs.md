@@ -201,8 +201,8 @@
 
 ## Оформленный багрепорт (Скриншот из Jira):  
 
-![Bug1-J](accets/15.png)  
+![Bug1-J](accets/18.png)  
 
 ## Приложение (реальный баг на сайте):  
 
-![Bug1-R](accets/s15.png)  
+![Bug1-R](accets/s18.png)  
