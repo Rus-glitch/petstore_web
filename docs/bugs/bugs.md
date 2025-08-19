@@ -142,7 +142,6 @@
 
 ![Bug1-R](../accets/s13.png)
 
---- 
 
 ![Bug1-R](../accets/s13.2.png)  
 
@@ -158,7 +157,6 @@
 
 ![Bug1-R](../accets/s14(1).png)  
 
----
 
 ![Bug1-R](../accets/s14(2).png)  
 
