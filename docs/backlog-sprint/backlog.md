@@ -12,4 +12,4 @@
 Документ служит для визуальной демонстрации структуры работы команды, а также наглядного отображения текущего прогресса выполнения задач.
 
 
-![Backlog&Sprint](..accets/backlog_sprint.png)  
+![Backlog&Sprint](accets/backlog_sprint.png)  
