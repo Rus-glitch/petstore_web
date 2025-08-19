@@ -11,8 +11,8 @@
 - Подготовлены отчётные **артефакты и репозитории** для демонстрации процесса тестирования.
 
 ## 3. Артефакты
-- [Backlog & Sprint](docs/backlog_sprint.png) – список задач, приоритеты, story points, статусы.
-- [Sprint Board](docs/sprint_board.png) – наглядное представление текущего спринта.
+- [Backlog & Sprint](docs/backlog-sprint/backlog.md) – список задач, приоритеты, story points, статусы.
+- [Sprint Board](docs/sprint-board/sprint_board.md) – наглядное представление текущего спринта.
 - [All bugs](docs/bugs/bugs.md) – полный список заведённых багов.
 
 ## 4. Инструменты
